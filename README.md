@@ -70,4 +70,4 @@ A aplicação conta com um sistema modular de notificações integradas no compo
 ```
 ## Autoria e Contribuição
 Desenvolvido por Maria Clara Bertin.
-[![Licence](https://img.shields.shields.shields.shields.shields.io/github/license/mariaabertin/dev-web-turma-b?color=5c1d24)](LICENSE)
+[![Licence](https://img.shields.shields.shields.shields.shields.io/github/license/mariaabertin/MammaMia?color=5c1d24)](LICENSE)
