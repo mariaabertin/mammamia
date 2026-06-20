@@ -9,6 +9,8 @@ O **Mamma Mia** é um sistema de gerenciamento e monitoramento de pedidos em tem
 *   **📱 Aplicação Web (Produção):** [https://mammamia-kc85ab4rq-sitemammamia.vercel.app/](https://mammamia-kc85ab4rq-sitemammamia.vercel.app/)
 *   **⚙️ Banco de Dados & API REST:** [https://api-mammamia.onrender.com/menu](https://api-mammamia.onrender.com/menu)
 
+>  **Nota sobre o carregamento inicial (Cold Start):** Como a API está hospedada na camada gratuita do *Render Cloud*, o servidor entra em modo de repouso após 15 minutos de inatividade. Ao abrir a aplicação pela primeira vez, as opções de pizza podem levar entre **30 e 50 segundos** para carregar enquanto o banco de dados "acorda". Caso as pizzas não apareçam de imediato, basta aguardar alguns instantes e atualizar a página (`F5`). Os acessos seguintes serão instantâneos!
+
 ---
 
 ## Design
